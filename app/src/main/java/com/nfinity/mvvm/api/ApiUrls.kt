@@ -5,6 +5,6 @@ package com.nfinity.mvvm.api
 object ApiUrls {
 
 
-    var baseUrl =  "https://obscure-earth-55790.herokuapp.co"
+    var baseUrl =  "https://obscure-earth-55790.herokuapp.com"
 
 }
