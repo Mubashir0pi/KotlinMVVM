@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tapadoo.android:alerter:2.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/543fa0ab873f63943860f125cb92d8bc/jetified-alerter-2.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/543fa0ab873f63943860f125cb92d8bc/jetified-alerter-2.0.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tapadoo.android/alerter/2.0.5/c8efe8f4d9d7673fb69535f25a342d80f041ed06/alerter-2.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tapadoo.android/alerter/2.0.5/8dd66100026cea1cea9bde248ed11ad5b468137c/alerter-2.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
